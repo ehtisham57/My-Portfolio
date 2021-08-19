@@ -467,7 +467,7 @@ img{
 
 
 
-@media screen and (max-width: 400px){
+@media screen and (max-width: 350px){
 
   .home__img{
     left: 10%;
@@ -482,7 +482,6 @@ img{
 }
 .home__title .button{
   font-size: 0.9rem;
-  margin-top: 20px;
   display: inline-block;
   background-color: var(--first-color);
   color: #fff;
@@ -492,3 +491,4 @@ img{
 
 }
 }
+
