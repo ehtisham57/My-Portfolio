@@ -467,15 +467,14 @@ img{
 
 
 
-@media screen and (max-width: 300px){
+@media screen and (max-width: 400px){
 
-  .home__img{
+ home__img {
     left: 10%;
     bottom: 150px;
     width: 200px;
-    height: 200px;
-  
-  }
+    height: 150px;
+}
   .home__title {
     font-size: 0.9rem;
     margin-top: 100px;
